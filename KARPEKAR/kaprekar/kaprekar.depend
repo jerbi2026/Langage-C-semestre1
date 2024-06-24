@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669562743 source:c:\users\jerbi\documents\1 bi\algo en c\karpekar\kaprekar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

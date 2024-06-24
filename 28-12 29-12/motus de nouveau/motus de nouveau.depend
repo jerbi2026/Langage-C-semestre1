@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672269813 source:c:\users\jerbi\documents\1 bi\semestre 1\algo en c\28-12 29-12\motus de nouveau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

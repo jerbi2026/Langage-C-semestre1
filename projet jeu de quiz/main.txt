@@ -1,0 +1,17 @@
+if (toupper( jeu )=='S')
+        button_s();
+        /*jeu*/
+    else
+        if (toupper( jeu )=='V')
+                button_v();
+            /*score max*/
+        else
+            if (toupper( jeu )=='H')
+                button_h();
+                /*help*/
+            else
+                if (toupper( jeu )=='R')
+                    {
+                        button_r();
+                    }
+                    /*reset_score*/

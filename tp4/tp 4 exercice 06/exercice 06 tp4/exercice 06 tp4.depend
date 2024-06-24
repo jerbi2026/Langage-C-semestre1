@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668452481 source:c:\users\jerbi\documents\1 bi\algo en c\tp4\tp 4 exercice 06\exercice 06 tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

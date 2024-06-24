@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672948404 source:c:\users\jerbi\documents\1 bi\semestre 1\algo en c\lilet devoir\examen controle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

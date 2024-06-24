@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672154587 source:c:\users\jerbi\documents\1 bi\semestre 1\algo en c\occurence\occurrence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

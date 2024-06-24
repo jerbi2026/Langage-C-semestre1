@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672696725 source:c:\users\jerbi\documents\1 bi\semestre 1\algo en c\examen 2020 2022\examen 2022\examen 2022 partie 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

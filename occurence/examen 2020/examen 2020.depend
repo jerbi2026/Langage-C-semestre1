@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672177965 source:c:\users\jerbi\documents\1 bi\semestre 1\algo en c\occurence\examen 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

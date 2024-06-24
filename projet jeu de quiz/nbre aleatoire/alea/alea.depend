@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669676290 source:c:\users\jerbi\desktop\nbre aleatoire\alea\main.c
+	<stdio.h>
+	<stdlib.h>
+

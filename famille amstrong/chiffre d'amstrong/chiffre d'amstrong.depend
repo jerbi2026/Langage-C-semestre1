@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668871072 source:c:\users\jerbi\documents\1 bi\algo en c\chiffre d'amstrong\main.c
+	<stdio.h>
+	<stdlib.h>
+

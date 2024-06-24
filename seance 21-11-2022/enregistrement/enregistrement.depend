@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669045475 source:c:\users\jerbi\documents\1 bi\algo en c\seance 21-11-2022\enregistrement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

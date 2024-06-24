@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668861413 source:c:\users\jerbi\documents\1 bi\algo en c\ch de carac\binaire li lezemha tekhdem\chaine binaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

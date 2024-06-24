@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669567947 source:c:\users\jerbi\documents\1 bi\algo en c\chiffrement de cesar\cesar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

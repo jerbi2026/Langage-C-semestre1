@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673002014 source:c:\users\jerbi\documents\1 bi\semestre 1\algo en c\examen 2023\ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

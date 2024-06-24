@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668622132 source:c:\users\jerbi\documents\1 bi\algo en c\test avec sahbi manai\test avecv sahbi manai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

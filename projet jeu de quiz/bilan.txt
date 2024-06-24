@@ -1,0 +1,14 @@
+if (toupper( jeu )=='S')
+        button_s();
+    else
+        if (toupper( jeu )=='V')
+            button_v();
+        else
+            if (toupper( jeu )=='H')
+                button_H();
+            else
+                if (toupper( jeu )=='R')
+                    button_r();
+                else
+                    if (toupper( jeu )=='Q')
+                        button_q();

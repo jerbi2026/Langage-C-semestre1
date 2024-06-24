@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666531514 source:c:\users\jerbi\onedrive\documents\project\tp3 ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

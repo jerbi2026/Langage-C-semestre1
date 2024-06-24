@@ -1,0 +1,85 @@
+
+void button_s()
+{
+     for(i=0;i<15;i++)
+        printf(" ");
+    printf("WELCOME TO THE GAME\n");
+    for(i=0;i<5;i++)
+        printf(" ");
+    printf("WE WILL START THE FIRST TOUR, ARE YOU READY?\n");
+    printf("\n");
+    /*question 1*/
+    s=jeu_1(s);
+    smax=button_v(smax , s);
+    printf("\n");
+    printf("your score is %d",s);
+    for (i=0;i<x;i++)
+        printf("-");
+    printf("/n");
+    /*question 2*/
+    s=jeu_2(s);
+    smax=button_v(smax , s);
+    printf("\n");
+    printf("your score is %d",s);
+
+
+
+
+
+}
+int jeu_1(int s)
+{
+    printf("QUESTION 1: what's the color of QATAR's flag?\n");
+    printf("A- GREEN and WHITE \t");
+    printf("B- RED and BLUE \n");
+    printf("C- RED and WHITE \t");
+    printf("D- YELLOW and ORANGE \n");
+    printf("your answer : \t");
+    scanf("%c",&q1);
+    printf("\n");
+    /*while ((toupper( q1 )!='A') && (toupper( q1 )!='B') && (toupper( q1 )!='D') && (toupper( q1 )!='C') )
+    {
+        printf("your answer does not exist in the list \n please retry again : \t");
+        scanf("%c",&q1);
+    }*/
+    if ((toupper( q1 )=='A') || (toupper( q1 )=='B') || (toupper( q1 )=='D'))
+        printf("you have lost ");
+    else
+        if (toupper( q1 )=='C')
+           {
+            printf("BINGO!!! let's move to the next step");
+            s=s+100;
+           }
+    return (s);
+}
+int jeu_2(int s )
+{
+    printf("QUESTION 2: WHERE WE WILL PLAY THE WORLD CUP?\n");
+    printf("A- QATAR \t");
+    printf("B- BRAZIL \n");
+    printf("C- TUNISIA\t");
+    printf("D- RUSSIA\n");
+    printf("your answer : \t");
+    scanf("%c",&q2);
+    printf("\n");
+    while ((toupper( q2 )!='A') && (toupper( q2 )!='B') && (toupper( q2 )!='D') && (toupper( q2 )!='C') )
+    {
+        printf("your answer does not exist in the list \n please retry again : \t");
+        scanf("%c",&q2);
+    }
+    if ((toupper( q2 )=='C') || (toupper( q2 )=='B') || (toupper( q2 )=='D'))
+        {
+            printf("you have lost ");
+            s=0;
+        }
+
+
+    else
+        if (toupper( q2 )=='A')
+           {
+            printf("\n");
+            printf("BINGO!!! let's move to the next step");
+            s=s+100;
+           }
+    return s ;
+}
